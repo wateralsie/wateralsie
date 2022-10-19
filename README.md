@@ -1,4 +1,15 @@
-### Hi there 👋
+### *Sumin Bae,*
+* Android Developer
+* Web Developer
+* UI/UX Designer
+
+### *Currently...*
+
+
+### *Languages*
+<a target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
 
 ### *You can also see me in...*
 <a href="https://velog.io/@watermin" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=Velog&logoColor=ffffff"/></a>
