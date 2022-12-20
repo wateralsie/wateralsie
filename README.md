@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@watermin" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=Velog&logoColor=ffffff"/></a>
 -->
 <a href="https://www.instagram.com/watermin.bb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=tnals08019@gmail.com&logoColor=FFFFFF"/></a>
 
 ### *Github Stats*
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterminn&show_icons=true&theme=react)
