@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=120&animation=fadeIn&section=footer&text=🌱🪴🌳&fontSize=60)
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90) -->
 
 <div align="left">
   
@@ -31,7 +30,17 @@ Here are some ideas to get you started:
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/></a> -->
   
 ### *Github Stats*
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterminn&show_icons=true&theme=react)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=vue-dark&bg_color=20232A&hide_border=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=vue"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=waterminn&show_icons=true" />
+</picture>
   
 ### *You can also see me in...*
 <a href="https://www.instagram.com/watermin.bb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
