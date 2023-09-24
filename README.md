@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=120&animation=fadeIn&section=footer&text=🌱🪴🌳&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A6EBD,100:A1C2F1&height=120&animation=fadeIn&section=footer&text=💧🌊🏄🏻&fontSize=60)
 
 <div align="left">
   
@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 ### *Github Stats*
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=vue-dark&bg_color=20232A&hide_border=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=github_dark_dimmed&bg_color=20232A&hide_border=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=vue"
+  srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=waterminn&show_icons=true" />
