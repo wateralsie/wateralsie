@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <div align="left">
   
-# *Sumin Bae,*
+# 𝙎𝙪𝙢𝙞𝙣 𝘽𝙖𝙚
  
-### *Tech Stack*
+### 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
 <a target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/></a>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a> -->
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/></a> -->
   
-### *Github Stats*
+### 𝘎𝘪𝘵𝘩𝘶𝘣 𝘚𝘵𝘢𝘵𝘴
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=github_dark_dimmed&bg_color=20232A&hide_border=true"
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=waterminn&show_icons=true" />
 </picture>
   
-### *You can also see me in...*
+### 𝘠𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘴𝘦𝘦 𝘮𝘦 𝘪𝘯...
 <a href="https://www.instagram.com/watermin.bb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/tnals08019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
