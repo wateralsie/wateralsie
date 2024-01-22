@@ -42,10 +42,11 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=waterminn&show_icons=true" />
 </picture>
   
+<!--
 ### 𝘠𝘰𝘶 𝘤𝘢𝘯 𝘢𝘭𝘴𝘰 𝘴𝘦𝘦 𝘮𝘦 𝘪𝘯...
 <a href="https://www.instagram.com/watermin.bb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/tnals08019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
-
+-->
 
 <!-- <a href="https://velog.io/@watermin" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=flat-square&logo=Velog&logoColor=ffffff"/></a> -->
 
