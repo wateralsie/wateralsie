@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <div align="left">
   
 # 𝙎𝙪𝙢𝙞𝙣 𝘽𝙖𝙚
- 
+
+<!--
 ### 𝘛𝘦𝘤𝘩 𝘚𝘵𝘢𝘤𝘬
 <a target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=FFFFFF"/></a>
@@ -28,6 +29,7 @@ Here are some ideas to get you started:
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000"/></a> -->
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a> -->
 <!-- <a target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/></a> -->
+-->
   
 ### 𝘎𝘪𝘵𝘩𝘶𝘣 𝘚𝘵𝘢𝘵𝘴
 <picture>
