@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=default"
+  srcset="https://github-readme-stats.vercel.app/api?username=wateralsie&count_private=true&show_icons=true&theme=default"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=waterminn&show_icons=true" />
