@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### 𝘎𝘪𝘵𝘩𝘶𝘣 𝘚𝘵𝘢𝘵𝘴
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=waterminn&count_private=true&show_icons=true&theme=github_dark_dimmed&bg_color=20232A&hide_border=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=wateralsie&count_private=true&show_icons=true&theme=github_dark_dimmed&bg_color=20232A&hide_border=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
